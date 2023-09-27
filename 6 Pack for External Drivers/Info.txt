@@ -1,0 +1,24 @@
+
+
+You need to buy the following mating connectors from LCSC
+
+ - (4) Cixi Kefa Elec KF2EDGK-3.5-4P 
+
+ - (2) Cixi Kefa Elec KF2EDGK-2.54-8P
+
+ - (1) Power Input XY2500F-A-5.0-2P LCSC P/N C504904 (For Power)
+
+ - (2) 12P Female Header LCSC P/N C225509 can be C350303
+
+ 
+
+You also need a ESP32 Module in the 2x19 format ESP32-DevKitC
+
+
+
+Links
+https://oshwlab.com/bdring/tmc2130-2-axis_copy_copy
+
+http://wiki.fluidnc.com/
+
+https://github.com/bdring/4_Axis_External_Driver
